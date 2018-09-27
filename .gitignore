@@ -4,3 +4,4 @@ MNIST_data/
 ConvPool_X2.csv
 all/
 basic/model/
+basic/logs/
