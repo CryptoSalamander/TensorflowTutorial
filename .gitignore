@@ -7,3 +7,5 @@ basic/model/
 basic/logs/
 basic/mnist/
 basic/images/
+*/.DS_Store
+*/venv
